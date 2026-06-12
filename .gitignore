@@ -1,0 +1,14 @@
+# Raw data files
+raw_german_postcpde_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated output
+user_polygon_result.html
+
+# IDE
+.idea/

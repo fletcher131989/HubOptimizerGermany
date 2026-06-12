@@ -1,0 +1,7 @@
+numpy==2.4.2
+pandas==3.0.1
+scikit-learn==1.8.0
+folium==0.20.0
+streamlit==1.56.0
+streamlit-folium==0.27.1
+openpyxl
