@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Generated output
+user_polygon_result.html
+
+# IDE
+.idea/
